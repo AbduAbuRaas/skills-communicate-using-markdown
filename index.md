@@ -3,3 +3,7 @@
 ### To see how the markdown language works.
 
 ![Image of spidertocat](https://octodex.github.com/images/spidertocat.png)
+
+``` Python
+print("Hello World!")
+```
